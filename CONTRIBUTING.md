@@ -14,6 +14,7 @@
     See the License for the specific language governing permissions and
     limitations under the License.
 -->
+
 # Contributing to Apache Seata(incubating)
 
 It is warmly welcomed if you have interest to hack on Apache Seata(incubating). Firstly, we encourage this kind of willingness very much. And here is a list of contributing guides for you.
